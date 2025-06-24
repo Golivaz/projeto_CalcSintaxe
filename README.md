@@ -56,7 +56,7 @@ O analisador é capaz de processar um arquivo de código, validá-lo contra um c
 * `main.py`: O script principal que inicializa a análise e orquestra a execução.
 * `lexer.py`: Contém a definição de todos os tokens da linguagem e as regras para o analisador léxico.
 * `parser.py`: Contém a gramática da linguagem, as regras de produção, a lógica da análise sintática e o tratamento da tabela de símbolos.
-* `main.cpp` / `testes.txt`: Arquivos de exemplo com código-fonte para serem analisados pelo compilador.
+* `testes.cpp`: Arquivos de exemplo com código-fonte para serem analisados pelo compilador.
 
 ## 5. Como Executar
 
