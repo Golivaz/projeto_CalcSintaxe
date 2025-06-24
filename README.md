@@ -1,4 +1,4 @@
-# Front-End de Compilador para Subconjunto de C++
+# Projeto CalcSintaxe
 
 Analisador Léxico e Sintático desenvolvido para a disciplina de Teoria da Computação e Compiladores.
 
